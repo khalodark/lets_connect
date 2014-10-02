@@ -1,4 +1,4 @@
 lets_connect
 ============
 
-This Application is mobile.
+This Application is mobile Based.
